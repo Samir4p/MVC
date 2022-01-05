@@ -1,0 +1,8 @@
+{
+    "name":"start4p/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
